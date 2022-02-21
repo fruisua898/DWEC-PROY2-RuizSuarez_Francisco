@@ -28,6 +28,7 @@ const Academics = () => {
                             >
 
                             </Typical>
+                            
                         </h1>
                     </span>
                 </div>
