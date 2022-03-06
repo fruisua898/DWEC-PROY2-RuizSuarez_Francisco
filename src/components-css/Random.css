@@ -1,0 +1,43 @@
+.random-container {
+    margin-top: 5%;
+    display:flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    height: 10%;
+    min-height: fit-content;
+    /*background-image: url('./../assets/images/bg.jpg');*/
+    background-color: rgba(28, 221, 235, 0.164);
+    border-radius: 1rem;
+}
+
+.random-parent{
+    display: flex;
+    align-items: center;
+
+}
+
+.random-details-name{
+    font-size: 24px;
+}
+
+.random-details-role{
+    display: flex;
+    flex-direction: column;
+    margin: 14px 0 24px 0;
+    font-size: 24px;
+
+}
+
+
+
+.random-text{
+    color:beige;
+    font-size: 5rem;
+}
+
+#item{
+    font-size: 1.5rem;
+    text-align: justify;
+    color:rgb(219, 192, 192)
+}

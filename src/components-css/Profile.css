@@ -1,0 +1,40 @@
+.profile-container {
+    margin-top: 3%;
+    display:flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    height: 10%;
+    min-height: fit-content;
+    /*background-image: url('./../assets/images/bg.jpg');*/
+    background-color: grey;
+    border-radius: 1rem;
+}
+
+.profile-parent{
+    display: flex;
+    align-items: center;
+
+}
+
+.profile-details-name{
+    font-size: 24px;
+}
+
+.profile-details-role{
+    display: flex;
+    flex-direction: column;
+    margin: 14px 0 24px 0;
+    font-size: 24px;
+
+}
+
+
+.skills-icon > img{
+    width: 5rem;
+}
+
+.primary-text{
+    color:beige;
+    font-size: 5rem;
+}
